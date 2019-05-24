@@ -1,0 +1,131 @@
+.sf-menu ul {
+    right: 0;
+    left: auto;
+}
+
+.scp-icon-bullet-text .scp-icon-bullet-text-icon {
+    float: right;
+    margin-left: 10px;
+}
+
+.logo-sticky,
+.widget_text .widget-button,
+.scp-icon-bullet-text .scp-icon-bullet-text-icon,
+.scp-icon-bullet-text .subtitle,
+.scp-icon-bullet-text .description {
+    float: right;
+}
+
+.wh-logo-wrap {
+    float: right !important;
+}
+
+.widget.widget-working-hours ul li .title {
+    float: right;
+    text-align: right;
+}
+
+.widget.widget-working-hours ul li .hours {
+    float: right;
+    text-align: left;
+}
+
+.search-form-wrap ul li select {
+    background-position: 0 5px;
+    padding-right: 15px;
+}
+
+.wh-footer .widget ul li {
+    padding: 7px;
+}
+
+.wh-footer .widget ul li:before {
+    left: auto;
+    right: 0;
+}
+
+.wh-footer .widget ul li:before {
+    content: "";
+    border: none;
+}
+
+.widget.widget-contact-info ul li {
+    padding: 10px 45px 10px 10px;
+}
+
+.widget.widget-contact-info ul li i {
+    left: auto;
+    right: 0;
+}
+
+.widget.widget-contact-info ul li.empty {
+    padding-left: 0;
+    padding-right: 46px;
+}
+
+.linp-featured-courses-carousel {
+    direction: ltr;
+}
+
+.wh-footer .wh-footer-bottom .social-links a i:after {
+    right: -7px;
+    left: auto;
+}
+
+.respmenu-open {
+    right: auto;
+    left: 0;
+}
+
+.respmenu-open, .respmenu-submenu-toggle {
+    float: left;
+}
+
+.course-container .course img, .course-container li.course img, .learner-info .course img, .learner-info li.course img {
+    float: right;
+    margin: 4px 0 30px 20px;
+
+}
+
+.course-container .course .course-price, .course-container li.course .course-price, .learner-info .course .course-price, .learner-info li.course .course-price {
+    right: -10px;
+    left: auto;
+}
+
+.course-container .course .course-price:before, .course-container li.course .course-price:before, .learner-info .course .course-price:before, .learner-info li.course .course-price:before {
+    border: none;
+}
+
+/*-----------------------------------------------*/
+.wh-logo {
+    float: right;
+}
+
+.sf-menu.wh-menu-main {
+    float: right;
+}
+
+.sf-menu.wh-menu-main .senseiloginlogout {
+    right: auto;
+    left: 0;
+}
+
+.default-icon .aio-icon-default .aio-icon, .default-icon .aio-icon-default .aio-icon-img {
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a {
+    padding-right: 50px;
+}
+/*-----------------------------------------------*/
+
+
+@media (max-width: 767px) {
+
+    .wh-footer .social-links {
+        overflow: hidden;
+        text-align: center;
+        padding-top: 13px !important;
+    }
+}

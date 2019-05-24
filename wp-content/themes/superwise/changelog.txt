@@ -1,0 +1,46 @@
+/* 2019-01-22 v1.2.8 */
+- FIX: Supewise plugin load correct translation file
+
+/* 2018-12-17 v1.2.7 */
+- FIX: Layout Block assets not loading on search page
+
+/* 2018-12-13 v1.2.6 */
+- FIX: Content Box addon extra closing tag
+
+/* 2018-12-10 v1.2.5 */
+- FIX: Preloader JavaScript error
+
+/* 2018-12-07 v1.2.4 */
+- FIX: Menu addon Fullwidth fix
+- UPDATE: Slider Revolution 5.4.8.1
+
+/* 2018-12-05 v1.2.3 */
+- UPDATE: WPBakery Page Builder 5.6
+
+/* 2018-06-13 v1.2.2 */
+- UPDATE: Slider Revolution 5.4.7.4
+- UPDATE: Demo gmaps switched to embed
+
+/* 2018-04-30 v1.2.1 */
+- FIX: Instagram addon
+
+/* 2018-04-27 v1.2.0 */
+- NEW: University demo
+- NEW: High School demo
+- UPDATE: Slider Revolution 5.4.7.3
+
+/* 2018-04-17 v1.1.0 */
+- NEW: School demo
+- UPDATE: Slider Revolution 5.4.7.2
+
+/* 2018-03-13 v1.0.1 */
+- UPDATE: Visual Composer 5.4.7
+- UPDATE: Slider Revolution 5.4.7.1
+
+/* 2018-02-16 v1.0.0 */
+- Initial release
+
+
+
+
+

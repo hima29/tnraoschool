@@ -1,0 +1,1550 @@
+# Copyright (C) 2019 Aislin Themes
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Superwise Plugin 1.2.8\n"
+"Report-Msgid-Bugs-To: http://example.com/issues\n"
+"POT-Creation-Date: 2019-01-22 10:35:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Team Name <team@example.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: vc-addons/menu/addon.php:38
+msgid "3"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:125
+msgid "Import all classes from Google Classroom"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:126
+msgid ""
+"This function will use teacher emails to import the classes. Please make "
+"sure that all teachers have email set."
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:128
+msgid "Import all"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:146
+msgid "Google Calendar API Key"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:156
+msgid "Use Course structured data?"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:161
+#: wp-widgets/SCP_Latest_Posts_Widget.php:64
+#: wp-widgets/SCP_Latest_Posts_Widget.php:71
+#: wp-widgets/SCP_Teachers_Widget.php:62
+msgid "Yes"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:170
+#: wp-widgets/SCP_Latest_Posts_Widget.php:63
+#: wp-widgets/SCP_Latest_Posts_Widget.php:70
+#: wp-widgets/SCP_Teachers_Widget.php:63
+msgid "No"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:183
+msgid "Organization name for structured data"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:188
+msgid "Organization name must be provided in order to use strucuted data."
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:196
+#: includes/google-classroom/inc/admin.php:245
+msgid "Submit"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:210
+msgid "Validated"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:217
+msgid "Revoke Classroom access token"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:225
+msgid "Get auth code"
+msgstr ""
+
+#: includes/google-classroom/inc/admin.php:235
+msgid "Auth code"
+msgstr ""
+
+#: includes/google-classroom/inc/helpers.php:50
+msgid "Go to classroom"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:21
+#: wp-widgets/SCP_Contact_Info_Widget.php:72
+msgid "Email"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:22
+msgid "Gmail address which is used to pull related classes from Google Classroom"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:40
+#: includes/google-classroom/vc-addons/course-carousel/partials/title.php:29
+msgid "Section"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:41
+msgid "Section title."
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:56
+msgid "Show only first teacher"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:57
+msgid ""
+"When class has co-teachers, you can choose to show only one which is first "
+"in the list."
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:62
+msgid "Is featured?"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:63
+msgid "For display in Course Carousel."
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:68
+msgid "Student count"
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:69
+#: includes/google-classroom/inc/metaboxes.php:75
+msgid ""
+"This value is used only for Internal classes. Classes imported from Google "
+"Classroom will ignore this."
+msgstr ""
+
+#: includes/google-classroom/inc/metaboxes.php:74
+#: includes/google-classroom/vc-addons/class-list/addon.php:152
+msgid "Room"
+msgstr ""
+
+#: includes/google-classroom/inc/post-type.php:159
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:89
+#: vc-addons/link-dropdown/addon.php:44 vc-addons/our-process/addon.php:99
+#: wp-widgets/SCP_Banner_Widget.php:40
+msgid "Title"
+msgstr ""
+
+#: includes/google-classroom/inc/post-type.php:160
+#: includes/google-classroom/vc-addons/class-list/addon.php:63
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:99
+#: vc-addons/events/addon.php:56 vc-addons/post-list/addon.php:48
+#: wp-widgets/SCP_Latest_Posts_Widget.php:46
+msgid "Category"
+msgstr ""
+
+#: includes/google-classroom/inc/post-type.php:161
+msgid "Source"
+msgstr ""
+
+#: includes/google-classroom/inc/post-type.php:162
+#: includes/google-classroom/vc-addons/class-list/addon.php:150
+msgid "Date"
+msgstr ""
+
+#: includes/google-classroom/inc/post-type.php:172
+msgid "Internal"
+msgstr ""
+
+#: includes/google-classroom/init.php:92
+msgid "Related Classes"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:39
+msgid "Class List"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:40
+msgid "Show a list of Google Classroom Classes"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:46
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:81
+#: vc-addons/link-dropdown/addon.php:62 vc-addons/our-process/addon.php:90
+msgid "Aislin"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:54
+#: includes/google-classroom/vc-addons/course-carousel/partials/title.php:35
+msgid "Teacher"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:69
+msgid "Number of items"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:72
+msgid "To show all set a big number."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:76
+#: vc-addons/content-box/addon.php:66 vc-addons/dribbble-shots/addon.php:97
+#: vc-addons/hexagon-icon/addon.php:162 vc-addons/logo/addon.php:53
+#: vc-addons/menu/addon.php:154 vc-addons/quick-sidebar-trigger/addon.php:90
+#: vc-addons/schedule/addon.php:47 vc-addons/search/addon.php:53
+#: vc-addons/theme-button/addon.php:149 vc-addons/theme-icon/addon.php:105
+#: vc-addons/video-popup/addon.php:113 vc-addons/wc-mini-cart/addon.php:52
+msgid "CSS box"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:78
+#: vc-addons/content-box/addon.php:68 vc-addons/content-box/addon.php:74
+#: vc-addons/content-box/addon.php:80 vc-addons/dribbble-shots/addon.php:99
+#: vc-addons/hexagon-icon/addon.php:164 vc-addons/logo/addon.php:55
+#: vc-addons/menu/addon.php:156 vc-addons/quick-sidebar-trigger/addon.php:92
+#: vc-addons/schedule/addon.php:49 vc-addons/search/addon.php:55
+#: vc-addons/theme-button/addon.php:151 vc-addons/theme-icon/addon.php:107
+#: vc-addons/video-popup/addon.php:115 vc-addons/wc-mini-cart/addon.php:54
+msgid "Design Options"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/class-list/addon.php:186
+#: includes/google-classroom/vc-addons/course-carousel/partials/button.php:3
+msgid "See details"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:74
+msgid "Course Carousel"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:75
+msgid "Display courses"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:92
+msgid "Title to display on front."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:102
+msgid "If category is selected Course Type will be disregarded."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:108
+msgid "Course Type"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:121
+#: vc-addons/circles/addon.php:55 vc-addons/teachers/addon.php:59
+#: vc-addons/video-popup/addon.php:89
+msgid "Image Size"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:129
+msgid "Show Ratings?"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:151
+msgid "Show Category?"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:162
+msgid "Image takes the full width"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:163
+msgid "Inner padding won't affect the image"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:174
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:235
+msgid "Image is rounded?"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:195
+msgid "Show Teacher?"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:206
+msgid "Show Excerpt?"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:217
+#: wp-widgets/SCP_Teachers_Widget.php:71
+msgid "Number of Words"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:220
+msgid "Number of words of the excerpt."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:227
+#: vc-addons/dribbble-shots/addon.php:69
+msgid "Number of Items"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:230
+msgid "Number of items to show."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:237
+msgid "Number of Items per Slide"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:240
+msgid "Number of items per slide."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:247
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:256
+msgid "Auto Play"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:280
+msgid "Show Bullets"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:309
+msgid "Adaptive Height"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:320
+#: vc-addons/content-box/addon.php:61 vc-addons/dribbble-shots/addon.php:91
+#: vc-addons/events/addon.php:112 vc-addons/hexagon-icon/addon.php:157
+#: vc-addons/instagram/addon.php:84 vc-addons/logo/addon.php:47
+#: vc-addons/our-process/addon.php:74 vc-addons/our-process/addon.php:208
+#: vc-addons/post-list/addon.php:146
+#: vc-addons/quick-sidebar-trigger/addon.php:84 vc-addons/schedule/addon.php:41
+#: vc-addons/search/addon.php:47 vc-addons/share-this/addon.php:36
+#: vc-addons/teachers/addon.php:90 vc-addons/theme-button/addon.php:155
+#: vc-addons/theme-icon/addon.php:100 vc-addons/theme-map/addon.php:83
+#: vc-addons/video-popup/addon.php:107 vc-addons/wc-mini-cart/addon.php:46
+msgid "Extra class name"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:322
+#: vc-addons/content-box/addon.php:62 vc-addons/events/addon.php:114
+#: vc-addons/hexagon-icon/addon.php:158 vc-addons/instagram/addon.php:86
+#: vc-addons/our-process/addon.php:76 vc-addons/our-process/addon.php:210
+#: vc-addons/post-list/addon.php:148 vc-addons/share-this/addon.php:38
+#: vc-addons/teachers/addon.php:92 vc-addons/theme-button/addon.php:157
+#: vc-addons/theme-icon/addon.php:101 vc-addons/theme-map/addon.php:85
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/addon.php:558
+#: plugin.php:90 vc-addons/events/addon.php:226
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/partials/lesson-count.php:5
+msgid "Lessons"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/partials/price.php:6
+msgid "Free"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:5
+msgid "Sensei Courses Carousel"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:11
+#: vc-addons/events/redux-options.php:12
+#: vc-addons/our-process/redux-options.php:11
+msgid "Title Typography"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:17
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:83
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:107
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:129
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:73
+msgid "Meta Typography"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:96
+#: vc-addons/our-process/redux-options.php:61
+msgid "Text Typography"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:120
+msgid "Regular Price Typography"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:181
+msgid "Border Color"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:189
+msgid "Inner Wrapper Background Color"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:202
+msgid "Price Wrapper Background Color"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:214
+msgid "Ribbon Back Background Color"
+msgstr ""
+
+#: includes/google-classroom/vc-addons/course-carousel/redux-options.php:221
+msgid "Rating Color"
+msgstr ""
+
+#: vc-addons/circles/addon.php:25
+msgid "Circles"
+msgstr ""
+
+#: vc-addons/circles/addon.php:38 vc-addons/content-box/addon.php:39
+#: vc-addons/hexagon-icon/addon.php:102 vc-addons/link-dropdown/addon.php:69
+#: vc-addons/theme-button/addon.php:41 vc-addons/theme-icon/addon.php:76
+msgid "URL (Link)"
+msgstr ""
+
+#: vc-addons/circles/addon.php:40 vc-addons/content-box/addon.php:41
+#: vc-addons/hexagon-icon/addon.php:104 vc-addons/theme-icon/addon.php:78
+msgid "Add link to icon."
+msgstr ""
+
+#: vc-addons/circles/addon.php:44 vc-addons/video-popup/addon.php:78
+msgid "Thumbnail"
+msgstr ""
+
+#: vc-addons/circles/addon.php:47 vc-addons/video-popup/addon.php:81
+msgid "Select image from media library."
+msgstr ""
+
+#: vc-addons/circles/addon.php:61 vc-addons/logo/addon.php:35
+#: vc-addons/video-popup/addon.php:95
+msgid "Image alignment"
+msgstr ""
+
+#: vc-addons/circles/addon.php:64 vc-addons/content-box/addon.php:91
+#: vc-addons/hexagon-icon/addon.php:94 vc-addons/logo/addon.php:38
+#: vc-addons/theme-icon/addon.php:68 vc-addons/video-popup/addon.php:98
+msgid "Left"
+msgstr ""
+
+#: vc-addons/circles/addon.php:65 vc-addons/hexagon-icon/addon.php:95
+#: vc-addons/logo/addon.php:39 vc-addons/theme-icon/addon.php:69
+#: vc-addons/video-popup/addon.php:99
+msgid "Right"
+msgstr ""
+
+#: vc-addons/circles/addon.php:66 vc-addons/hexagon-icon/addon.php:96
+#: vc-addons/logo/addon.php:40 vc-addons/theme-icon/addon.php:70
+#: vc-addons/video-popup/addon.php:100
+msgid "Center"
+msgstr ""
+
+#: vc-addons/circles/addon.php:68 vc-addons/logo/addon.php:42
+#: vc-addons/video-popup/addon.php:102
+msgid "Select image alignment."
+msgstr ""
+
+#: vc-addons/circles/addon.php:74
+msgid "Top Text"
+msgstr ""
+
+#: vc-addons/circles/addon.php:83
+msgid "Bottom Text"
+msgstr ""
+
+#: vc-addons/circles/addon.php:90 vc-addons/our-process/addon.php:157
+#: vc-addons/theme-button/addon.php:80
+msgid "Text Color"
+msgstr ""
+
+#: vc-addons/circles/addon.php:95
+msgid "Color 1"
+msgstr ""
+
+#: vc-addons/circles/addon.php:100
+msgid "Color 2"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:22
+msgid "Content Box"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:46
+msgid "Use Overlay"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:55
+msgid "Overlay Title"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:72
+#: vc-addons/quick-sidebar-trigger/addon.php:78
+#: vc-addons/theme-button/addon.php:73
+msgid "Bg Color"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:78 vc-addons/theme-button/addon.php:87
+msgid "Hover Bg Color"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:85
+msgid "Top"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:86 vc-addons/content-box/addon.php:92
+#: vc-addons/content-box/addon.php:98 vc-addons/content-box/addon.php:104
+#: vc-addons/content-box/addon.php:110 vc-addons/content-box/addon.php:116
+#: vc-addons/content-box/addon.php:122 vc-addons/content-box/addon.php:128
+msgid "Box Shadow"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:97
+msgid "Spread"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:102
+msgid "Box Shadow Color"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:109
+msgid "Top Hover"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:115
+msgid "Left Hover"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:121
+msgid "Spread Hover"
+msgstr ""
+
+#: vc-addons/content-box/addon.php:126
+msgid "Box Shadow Color Hover"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:32
+msgid "Dribbble Shots"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:46 vc-addons/menu/addon.php:143
+#: vc-addons/quick-sidebar-trigger/addon.php:47 vc-addons/search/addon.php:36
+#: vc-addons/wc-mini-cart/addon.php:35
+msgid "Position"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:53
+#: vc-addons/quick-sidebar-trigger/addon.php:54
+#: vc-addons/quick-sidebar-trigger/addon.php:66 vc-addons/search/addon.php:43
+#: vc-addons/wc-mini-cart/addon.php:42
+msgid "Float."
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:57
+msgid "Token"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:59
+msgid "You need to generate token for Dribble app in order to use this widget."
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:63 vc-addons/instagram/addon.php:37
+msgid "Username"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:65
+msgid "Dribbble username."
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:71
+msgid "Number of items to fetch."
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:75 vc-addons/post-list/addon.php:99
+#: vc-addons/teachers/addon.php:66
+msgid "Number of Columns"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:80
+msgid "Shot Width"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:85
+msgid "Gap"
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:87
+msgid "Gap between shots."
+msgstr ""
+
+#: vc-addons/dribbble-shots/addon.php:93 vc-addons/logo/addon.php:49
+#: vc-addons/quick-sidebar-trigger/addon.php:86 vc-addons/schedule/addon.php:43
+#: vc-addons/search/addon.php:49 vc-addons/video-popup/addon.php:109
+#: vc-addons/wc-mini-cart/addon.php:48
+msgid ""
+"Style particular content element differently - add a class name and refer "
+"to it in custom CSS."
+msgstr ""
+
+#: vc-addons/events/addon.php:33 vc-addons/events/redux-options.php:5
+msgid "Tribe Events"
+msgstr ""
+
+#: vc-addons/events/addon.php:47 wp-widgets/SCP_Contact_Info_Widget.php:46
+#: wp-widgets/SCP_Latest_Posts_Widget.php:42
+#: wp-widgets/SCP_Teachers_Widget.php:40
+#: wp-widgets/SCP_Working_Hours_Widget.php:52
+msgid "Widget Title"
+msgstr ""
+
+#: vc-addons/events/addon.php:64
+msgid "Start Date Format"
+msgstr ""
+
+#: vc-addons/events/addon.php:71
+msgid "Nubmer of events to display"
+msgstr ""
+
+#: vc-addons/events/addon.php:73 vc-addons/events/addon.php:101
+#: vc-addons/post-list/addon.php:68
+msgid "Enter number only."
+msgstr ""
+
+#: vc-addons/events/addon.php:78 vc-addons/post-list/addon.php:88
+msgid "Layout"
+msgstr ""
+
+#: vc-addons/events/addon.php:90
+msgid "Show Description"
+msgstr ""
+
+#: vc-addons/events/addon.php:99
+msgid "Event description word length"
+msgstr ""
+
+#: vc-addons/events/addon.php:106
+msgid "View All Events Link Text"
+msgstr ""
+
+#: vc-addons/events/addon.php:108
+msgid "If Left Blank link will not show."
+msgstr ""
+
+#: vc-addons/events/addon.php:208
+msgid "There are no upcoming events at this time."
+msgstr ""
+
+#: vc-addons/events/redux-options.php:27
+msgid "Title Margin"
+msgstr ""
+
+#: vc-addons/events/redux-options.php:39
+msgid "Date Typography"
+msgstr ""
+
+#: vc-addons/events/redux-options.php:58
+msgid "Date Padding"
+msgstr ""
+
+#: vc-addons/events/redux-options.php:67
+msgid "Date Width"
+msgstr ""
+
+#: vc-addons/google-calendar/addon.php:35
+msgid "Google Calendar"
+msgstr ""
+
+#: vc-addons/google-calendar/addon.php:36
+msgid "Display Google Calendar"
+msgstr ""
+
+#: vc-addons/google-calendar/addon.php:50
+msgid "Calendar ID"
+msgstr ""
+
+#: vc-addons/google-calendar/addon.php:53
+msgid ""
+"Add public Google Calendar ID. Make sure to set Google Calendar API key in "
+"Theme Options/Misc"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:42 vc-addons/our-process/addon.php:176
+#: vc-addons/theme-icon/addon.php:39
+msgid "Icon"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:53 vc-addons/our-process/addon.php:187
+#: vc-addons/theme-icon/addon.php:50
+msgid "Select icon from library."
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:57 vc-addons/theme-icon/addon.php:60
+msgid "Position Absolute?"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:62
+msgid "Use Hexagon with a line?"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:67
+msgid "Hexagon Width"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:69 vc-addons/hexagon-icon/addon.php:75
+#: vc-addons/hexagon-icon/addon.php:81 vc-addons/hexagon-icon/addon.php:87
+#: vc-addons/quick-sidebar-trigger/addon.php:73
+#: vc-addons/theme-icon/addon.php:56 vc-addons/theme-map/addon.php:47
+#: vc-addons/video-popup/addon.php:60 vc-addons/video-popup/addon.php:68
+msgid "Value in px. Enter number only."
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:73
+msgid "Icon Position Top"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:79
+msgid "Icon Position Left"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:85
+msgid "Icon Font Size"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:91 vc-addons/theme-icon/addon.php:65
+msgid "Icon alignment"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:98 vc-addons/theme-icon/addon.php:72
+msgid "Select alignment."
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:108
+msgid "Hexagon Background Color"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:111 vc-addons/hexagon-icon/addon.php:118
+#: vc-addons/hexagon-icon/addon.php:125 vc-addons/theme-icon/addon.php:84
+msgid "If color is not set, theme accent color will be used."
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:115
+msgid "Hexagon Color"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:122 vc-addons/our-process/addon.php:141
+#: vc-addons/theme-icon/addon.php:82
+msgid "Icon Color"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:129 vc-addons/theme-icon/addon.php:88
+msgid "Use Theme Accent Color for Hover"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:135
+msgid "Hexagon Background Hover Color"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:138 vc-addons/hexagon-icon/addon.php:145
+#: vc-addons/hexagon-icon/addon.php:152 vc-addons/theme-icon/addon.php:95
+msgid "Will not be used if Use Accent Color is checked."
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:142
+msgid "Hexagon Hover Color"
+msgstr ""
+
+#: vc-addons/hexagon-icon/addon.php:149 vc-addons/theme-icon/addon.php:93
+msgid "Icon Hover Color"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:22
+msgid "Instagram"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:44
+msgid "Number of photos"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:51
+msgid "Number of columns"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:57
+msgid "Photo Size"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:68
+msgid "Open links in"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:79 vc-addons/post-list/addon.php:73
+msgid "Link Text"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:200
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: vc-addons/instagram/addon.php:204
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: vc-addons/instagram/addon.php:212 vc-addons/instagram/addon.php:220
+#: vc-addons/instagram/addon.php:224
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: vc-addons/instagram/addon.php:236
+msgid "Instagram Image"
+msgstr ""
+
+#: vc-addons/instagram/addon.php:268
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: vc-addons/link-dropdown/addon.php:25
+msgid "Link Dropdown"
+msgstr ""
+
+#: vc-addons/link-dropdown/addon.php:26
+msgid "Display a dropdown with links"
+msgstr ""
+
+#: vc-addons/link-dropdown/addon.php:47
+msgid "This displays as first item in a dropdown."
+msgstr ""
+
+#: vc-addons/link-dropdown/addon.php:54
+msgid "Link Dropdown Item"
+msgstr ""
+
+#: vc-addons/link-dropdown/addon.php:71
+msgid "Add link."
+msgstr ""
+
+#: vc-addons/logo/addon.php:22
+msgid "Logo"
+msgstr ""
+
+#: vc-addons/logo/addon.php:23
+msgid "Uses logo image set in Theme Options"
+msgstr ""
+
+#: vc-addons/menu/addon.php:21 vc-addons/menu/addon.php:77
+msgid "Menu"
+msgstr ""
+
+#: vc-addons/menu/addon.php:22
+msgid "Choose a menu"
+msgstr ""
+
+#: vc-addons/menu/addon.php:36
+msgid "Depth"
+msgstr ""
+
+#: vc-addons/menu/addon.php:39
+msgid "Depth of the menu."
+msgstr ""
+
+#: vc-addons/menu/addon.php:45
+msgid "Type"
+msgstr ""
+
+#: vc-addons/menu/addon.php:56
+msgid "Select menu type."
+msgstr ""
+
+#: vc-addons/menu/addon.php:62
+msgid "Main Menu Orientation"
+msgstr ""
+
+#: vc-addons/menu/addon.php:90
+msgid "Container"
+msgstr ""
+
+#: vc-addons/menu/addon.php:97
+msgid "Container element."
+msgstr ""
+
+#: vc-addons/menu/addon.php:107
+msgid "Container Class"
+msgstr ""
+
+#: vc-addons/menu/addon.php:119
+msgid "Container ID"
+msgstr ""
+
+#: vc-addons/menu/addon.php:131
+msgid "Menu Class"
+msgstr ""
+
+#: vc-addons/menu/addon.php:133
+msgid "sf-menu"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:33 vc-addons/our-process/redux-options.php:5
+msgid "Our Process"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:52
+msgid "Admin Title"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:59
+msgid "Background Image"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:62
+msgid "Upload background image."
+msgstr ""
+
+#: vc-addons/our-process/addon.php:67
+#: vc-addons/our-process/redux-options.php:79
+msgid "Breakpoint"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:68
+msgid ""
+"Under this width boxes will be streched to 100%. (Value in px - enter "
+"nubmer only)"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:82
+msgid "Our Process Item"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:103
+msgid "Widget title."
+msgstr ""
+
+#: vc-addons/our-process/addon.php:109
+msgid "Title Tag"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:124 vc-addons/theme-button/addon.php:109
+msgid "Width"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:127
+msgid "30%"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:128
+msgid "Enter with for the item. Percent recommended"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:133
+msgid "Title Color"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:149
+msgid "Bar Color"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:165
+msgid "Icon to display:"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:171
+msgid "Use an existing font icon</a> or upload a custom image."
+msgstr ""
+
+#: vc-addons/our-process/addon.php:193
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: vc-addons/our-process/addon.php:196
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: vc-addons/our-process/addon.php:202
+msgid "Descripion"
+msgstr ""
+
+#: vc-addons/our-process/redux-options.php:28
+msgid "Icon Typography"
+msgstr ""
+
+#: vc-addons/our-process/redux-options.php:45
+msgid "Bar Background Color"
+msgstr ""
+
+#: vc-addons/our-process/redux-options.php:54
+msgid "Triangle Background Color"
+msgstr ""
+
+#: vc-addons/our-process/redux-options.php:80
+msgid "Under this width boxes will be streched to 100%"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:33
+msgid "Post List"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:54 vc-addons/teachers/addon.php:42
+#: wp-widgets/SCP_Teachers_Widget.php:67
+msgid "Number of Posts"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:60
+msgid "Post Date Format"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:66
+msgid "Post description word length"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:76
+msgid "If you do not wish to display Read More link just leave this field blank."
+msgstr ""
+
+#: vc-addons/post-list/addon.php:113
+msgid "Show Author?"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:123
+msgid "Show Comment Count?"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:133
+msgid "Thumbnail Dimensions"
+msgstr ""
+
+#: vc-addons/post-list/addon.php:140
+msgid "Meta Data Color"
+msgstr ""
+
+#: vc-addons/post-list/templates/layout_1.php:46
+#: vc-addons/post-list/templates/layout_2.php:43
+#: vc-addons/post-list/templates/layout_3.php:46
+#: wp-widgets/SCP_Latest_Posts_Widget.php:183
+msgid "by"
+msgstr ""
+
+#: vc-addons/quick-sidebar-trigger/addon.php:32
+msgid "Quick Sidebar Trigger"
+msgstr ""
+
+#: vc-addons/quick-sidebar-trigger/addon.php:33
+msgid "A trigger button for Quick Sidebar"
+msgstr ""
+
+#: vc-addons/quick-sidebar-trigger/addon.php:60
+msgid "Quick Sidebar Position"
+msgstr ""
+
+#: vc-addons/quick-sidebar-trigger/addon.php:67
+#: vc-addons/quick-sidebar-trigger/addon.php:74
+#: vc-addons/quick-sidebar-trigger/addon.php:80
+msgid "Quick Sidebar"
+msgstr ""
+
+#: vc-addons/quick-sidebar-trigger/addon.php:71
+msgid "Layout Block Width"
+msgstr ""
+
+#: vc-addons/schedule/addon.php:22 vc-addons/schedule/addon.php:35
+msgid "Schedule"
+msgstr ""
+
+#: vc-addons/schedule/addon.php:37
+msgid ""
+"Pipe separated list of items. %% is row separator. Example: item 1 | time 1 "
+"%% item 2 | time 2"
+msgstr ""
+
+#: vc-addons/search/addon.php:21
+msgid "Search"
+msgstr ""
+
+#: vc-addons/search/addon.php:22
+msgid "Search field"
+msgstr ""
+
+#: vc-addons/share-this/addon.php:23
+msgid "Share This"
+msgstr ""
+
+#: vc-addons/teachers/addon.php:29 vc-addons/teachers/addon.php:50
+#: wp-widgets/SCP_Teachers_Widget.php:12 wp-widgets/SCP_Teachers_Widget.php:29
+msgid "Teachers"
+msgstr ""
+
+#: vc-addons/teachers/addon.php:53
+msgid "If specific teacher is selected, then this widget prints only that teacher."
+msgstr ""
+
+#: vc-addons/teachers/addon.php:80
+msgid "Show social icons?"
+msgstr ""
+
+#: vc-addons/teachers/addon.php:192
+msgid "Meet me on:"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:34 wp-widgets/SCP_Banner_Widget.php:54
+#: wp-widgets/SCP_Contact_Info_Widget.php:53
+msgid "Text"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:37
+msgid "Text on the button"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:43
+msgid "Add link to button."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:49
+msgid "Style"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:56
+msgid "Theme Button Styling form Theme Options/Other Settings."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:62
+msgid "Align"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:69 vc-addons/theme-button/addon.php:76
+#: vc-addons/theme-button/addon.php:83 vc-addons/theme-button/addon.php:90
+#: vc-addons/theme-button/addon.php:97 vc-addons/theme-button/addon.php:105
+#: vc-addons/theme-button/addon.php:113 vc-addons/theme-button/addon.php:121
+#: vc-addons/theme-button/addon.php:129 vc-addons/theme-button/addon.php:137
+#: vc-addons/theme-button/addon.php:145
+msgid "Overrides"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:94
+msgid "Hover Text Color"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:101 vc-addons/theme-icon/addon.php:54
+msgid "Font Size"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:104
+msgid "Override font size."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:112
+msgid "Override button width."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:117
+msgid "Padding Top"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:120
+msgid "Override padding top."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:125
+msgid "Padding Left"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:128
+msgid "Override padding left."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:133
+msgid "Padding Bottom"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:136
+msgid "Override padding bottom."
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:141
+msgid "Padding Right"
+msgstr ""
+
+#: vc-addons/theme-button/addon.php:144
+msgid "Override padding right."
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:44
+msgid "Map Height"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:52
+msgid "Latitude"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:55 vc-addons/theme-map/addon.php:62
+msgid "Visit %s to get coordinates."
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:55 vc-addons/theme-map/addon.php:62
+msgid "this site"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:59
+msgid "Longitude"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:66
+msgid "Zoom Level"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:72
+msgid "Snazzy Maps Style"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:74
+msgid ""
+"Visit %s to create your map style. Copy JavaScript Style Array and paste "
+"here."
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:74
+msgid "Example"
+msgstr ""
+
+#: vc-addons/theme-map/addon.php:78
+msgid "Disable Map Zoom Scroll"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:30
+msgid "Video Popup"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:42
+msgid "Widget title"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:44
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:49
+msgid "Video Url"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:52
+msgid "Add Youtube/Vimeo video url"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:57
+msgid "Video Width"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:65
+msgid "Video Height"
+msgstr ""
+
+#: vc-addons/video-popup/addon.php:72
+msgid "Play Badge Color"
+msgstr ""
+
+#: vc-addons/wc-mini-cart/addon.php:21
+msgid "WC Mini Cart"
+msgstr ""
+
+#: vc-addons/wc-mini-cart/addon.php:22
+msgid "Mini Cart"
+msgstr ""
+
+#: wp-widgets/SCP_Banner_Widget.php:12 wp-widgets/SCP_Banner_Widget.php:29
+msgid "Banner"
+msgstr ""
+
+#: wp-widgets/SCP_Banner_Widget.php:47
+msgid "Label"
+msgstr ""
+
+#: wp-widgets/SCP_Banner_Widget.php:60
+msgid "Button Text"
+msgstr ""
+
+#: wp-widgets/SCP_Banner_Widget.php:67
+msgid "Button Link"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:14
+msgid "Contact Info. ( for footer section)"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:32
+msgid "Contact Info"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:58
+msgid "Address"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:65
+msgid "Alt Address"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:79
+msgid "Alt Email"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:86
+msgid "Telephone"
+msgstr ""
+
+#: wp-widgets/SCP_Contact_Info_Widget.php:93
+msgid "Fax"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:12
+msgid "Latest Post from News category.( for footer section)"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:61
+msgid "Show image?"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:68
+msgid "Show excerpt?"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:75
+msgid "Number of words"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:79
+msgid "Number of posts"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:83
+msgid "Date format"
+msgstr ""
+
+#: wp-widgets/SCP_Latest_Posts_Widget.php:87
+msgid "Category link button text"
+msgstr ""
+
+#: wp-widgets/SCP_Teachers_Widget.php:60
+msgid "Show Image"
+msgstr ""
+
+#: wp-widgets/SCP_Teachers_Widget.php:75
+msgid "View All Link Text"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:12
+msgid "Working Hours. ( for footer section)"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:29
+msgid "Working Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:59
+msgid "Fields with labels (pipe separated list)"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:66
+msgid "Monday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:73
+msgid "Monday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:80
+msgid "Tuesday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:87
+msgid "Tuesday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:94
+msgid "Wednesday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:101
+msgid "Wednesday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:108
+msgid "Thursday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:115
+msgid "Thursday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:122
+msgid "Friday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:129
+msgid "Friday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:136
+msgid "Saturday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:143
+msgid "Saturday Hours"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:150
+msgid "Sunday Title"
+msgstr ""
+
+#: wp-widgets/SCP_Working_Hours_Widget.php:157
+msgid "Sunday Hours"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:14
+msgid "Display recent tweets"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:40
+msgid "Please fill all required widget settings!"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:52
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:66
+msgid "Unable to connect!"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:72
+msgid ""
+"You'll need to regenerate it <a href=\"https://apps.twitter.com/\" "
+"target=\"_blank\">here</a>!"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:145
+msgid "<b>Error!</b> Couldn't retrieve tweets for some reason!"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:198
+msgid "Get your API keys & tokens at"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:202
+msgid "Title:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:206
+msgid "Consumer Key:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:210
+msgid "Consumer Secret:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:214
+msgid "Access Token:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:218
+msgid "Access Token Secret:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:222
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:226
+msgid "Twitter Username:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:230
+msgid "Tweets to display:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:242
+msgid "Exclude replies:"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:300
+msgid "right now"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:302
+msgid " seconds ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:304
+msgid "about 1 minute ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:306
+msgid " minutes ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:308
+msgid "about 1 hour ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:310
+msgid " hours ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:312
+msgid "yesterday"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:314
+msgid " days ago"
+msgstr ""
+
+#: wp-widgets/twitter-widget/recent-tweets-widget.php:316
+msgid "over a year ago"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Superwise Plugin"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Superwise theme helper plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aislin Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/Aislin/portfolio"
+msgstr ""

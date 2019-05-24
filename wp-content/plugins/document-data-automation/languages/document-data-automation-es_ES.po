@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-01-18 16:11+0100\n"
+"PO-Revision-Date: 2019-01-18 16:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: ;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin.php:74 views/template.php:66
+msgid "Select Docxpresso Template"
+msgstr "Seleccionar Plantilla Docxpresso"
+
+#: views/options.php:48
+msgid "Thanks for providing us with the requested information."
+msgstr "Gracias por proporcionar la información requerida."
+
+#: views/options.php:80
+msgid "Docxpresso configuration options"
+msgstr "Docxpresso: opciones de configuración"
+
+#: views/options.php:82
+msgid "The plugin configuration has been successfully updated."
+msgstr "Se ha actualizado la configuración del plugin."
+
+#: views/options.php:88
+msgid "Docxpresso Connection"
+msgstr "Conexión a Docxpresso"
+
+#: views/options.php:89
+msgid "General settings"
+msgstr "Configuración general"
+
+#: views/options.php:90
+msgid "Styles"
+msgstr "Estilos"
+
+#: views/options.php:94
+msgid "Associated Docxpresso Installation"
+msgstr "Instalación Docxpresso asociada"
+
+#: views/options.php:96
+msgid "Test connection"
+msgstr "Testear conexión"
+
+#: views/options.php:97
+msgid "Introduce the full URL of your Docxpresso SaaS installation."
+msgstr "Introduzca la URL completa de su instalación de Docxpresso SaaS"
+
+#: views/options.php:99
+msgid "Private API Key"
+msgstr "API Key privada"
+
+#: views/options.php:101
+msgid ""
+"Introduce the API Key of your Docxpresso SaaS installation (you can find it "
+"under the Configuration > Account menu entry)."
+msgstr ""
+"Introduzca la API Key de su instalación de Docxpresso saaS (puede "
+"encontrarla en la entrada de menú Configuración > Cuenta)."
+
+#: views/options.php:105
+msgid ""
+"Introduce your Docxpresso registration email or any other email with ADMIN "
+"permissions in your Docxpresso SaaS installation."
+msgstr ""
+"Introduzca el email de registro en Docxpresso o cualquier otro email que "
+"tenga permisos de ADMIN en su instalación Docxpresso SaaS"
+
+#: views/options.php:110
+msgid "Redirect URL"
+msgstr "URL redirección"
+
+#: views/options.php:112 views/options.php:117
+msgid "External URL"
+msgstr "URL externa"
+
+#: views/options.php:113 views/options.php:121
+msgid "WordPress page"
+msgstr "Página de WordPress"
+
+#: views/options.php:119
+msgid ""
+"Choose an optional external default page were the users will be redirected "
+"after fulfilling a document."
+msgstr ""
+"Escoja una página web externa por defecto a la que los usuarios serán "
+"redirigidos tras rellenar un documento."
+
+#: views/options.php:125
+msgid ""
+"Choose an optional default WordPress page were the users will be redirected "
+"after fulfilling a document."
+msgstr ""
+"Escoja una página web de su WordPress a la que los usuarios serán "
+"redirigidos tras rellenar un documento."
+
+#: views/options.php:129
+msgid ""
+"Choose a default message to be shown to your users after fulfilling the "
+"document."
+msgstr ""
+"Escoja un mensaje que se mostrará por defecto cuando los usuarios completen "
+"un documento."
+
+#: views/options.php:134
+msgid "Document/Web form frame style"
+msgstr "Estilo marco documento/formulario web"
+
+#: views/options.php:135 views/options.php:151
+msgid "Border"
+msgstr "Borde"
+
+#: views/options.php:137 views/options.php:153
+msgid "no border"
+msgstr "sin borde"
+
+#: views/options.php:143 views/options.php:159
+msgid "solid"
+msgstr "solido"
+
+#: views/options.php:144 views/options.php:160
+msgid "dotted"
+msgstr "punteado"
+
+#: views/options.php:150
+msgid "Message box style"
+msgstr "Estilo caja del mensaje"
+
+#: views/options.php:164
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: views/options.php:168
+msgid "Font"
+msgstr "Fuente"
+
+#: views/options.php:170
+msgid "default size"
+msgstr "tamaño por defecto"
+
+#: views/options.php:171
+msgid "big"
+msgstr "grande"
+
+#: views/options.php:172
+msgid "very big"
+msgstr "muy grande"
+
+#: views/options.php:173
+msgid "small"
+msgstr "pequeño"
+
+#: views/options.php:174
+msgid "very small"
+msgstr "muy pequeño"
+
+#: views/options.php:183
+msgid "Save Configuration"
+msgstr "Guardar configuración"
+
+#: views/options.php:249
+msgid "The email is not a valid registered email with ADMIN privileges."
+msgstr "El email no es un email válido registrado con permisos de ADMIN."
+
+#: views/options.php:254
+msgid "The introduced API key is not correct."
+msgstr "La API Key no es correcta."
+
+#: views/options.php:260
+msgid "The connection data is correct."
+msgstr "Los datos de conexión son correctos."
+
+#: views/options.php:267
+msgid ""
+"The Docxpresso SaaS URL is not responding. <strong>Have you introduced the "
+"correct URL?"
+msgstr ""
+"La URL de Docxpresso SaaS no responde. <strong>¿Ha introducido la URL "
+"correcta?"
+
+#: views/template.php:67 views/template.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#: views/template.php:68
+msgid "Actions"
+msgstr "Acciones"
+
+#: views/template.php:69
+msgid "Comp."
+msgstr "Comp."
+
+#: views/template.php:70
+msgid "Last use"
+msgstr "Último uso"
+
+#: views/template.php:71
+msgid "# uses"
+msgstr "Nº usos"
+
+#: views/template.php:72
+msgid "Created"
+msgstr "Creado"
+
+#: views/template.php:73 views/template.php:178
+msgid "Identifier"
+msgstr "Identificador"
+
+#: views/template.php:74 views/template.php:179
+msgid "Reference"
+msgstr "Referencia"
+
+#: views/template.php:75
+msgid "of"
+msgstr "de"
+
+#: views/template.php:76 views/template.php:120
+msgid "Loading data"
+msgstr "Cargando datos"
+
+#: views/template.php:77
+msgid "Document"
+msgstr "Documento"
+
+#: views/template.php:78 views/template.php:100
+msgid "Data"
+msgstr "Datos"
+
+#: views/template.php:79
+msgid "Template"
+msgstr "Plantilla"
+
+#: views/template.php:80
+msgid "Usage"
+msgstr "Uso"
+
+#: views/template.php:86
+msgid ""
+"There where problems connecting to your Docxpresso SaaS account. Please, "
+"check your <strong>configuration options</strong>."
+msgstr ""
+"Hubo problemas conectando con su instalación de Docxpresso. Por favor, "
+"compruebe sus <strong>opciones de configuración</strong>."
+
+#: views/template.php:92
+msgid "Loading content"
+msgstr "Cargando contenido"
+
+#: views/template.php:94
+msgid ""
+"It seems like the connection to Docxpresso <strong>is lost</strong>, please, "
+"<strong>reload</strong> this page."
+msgstr ""
+"Parece que la conexión con Docxpresso <strong>se ha perdido</strong>, plor "
+"favor, <strong>recargue</strong> esta página."
+
+#: views/template.php:96
+msgid "Welcome to Docxpresso"
+msgstr "Bienvenido a Docxpresso"
+
+#: views/template.php:99
+msgid "Templates"
+msgstr "Plantillas"
+
+#: views/template.php:107
+msgid "Search Templates by name"
+msgstr "Busque plantillas por nombre"
+
+#: views/template.php:109
+msgid "Template name"
+msgstr "Nombre plantilla"
+
+#: views/template.php:110
+msgid "Filter by name"
+msgstr "Filtrar por nombre"
+
+#: views/template.php:111
+msgid "Leave \"name\" empty for the complete list."
+msgstr "Deje el \"nombre\" vacío si desea la lista completa."
+
+#: views/template.php:115
+msgid "Select template by category"
+msgstr "Seleccione plantilla por categoría"
+
+#: views/template.php:115
+msgid "Last used templates"
+msgstr "Ultimas plantillas usadas"
+
+#: views/template.php:117
+msgid "Filtered by name"
+msgstr "Filtrar por nombre"
+
+#: views/template.php:133
+msgid "Latest templates"
+msgstr "Plantillas recientes"
+
+#: views/template.php:138
+msgid "Loading templates"
+msgstr "Cargando plantillas"
+
+#: views/template.php:154
+msgid "Download as Excel file"
+msgstr "Descargar como fichero Excel"
+
+#: views/template.php:154
+msgid "Usage data"
+msgstr "Datos de uso"
+
+#: views/template.php:157
+msgid "Filtered by template"
+msgstr "Filtrado por plantilla"
+
+#: views/template.php:160
+msgid ""
+"You should <a href=\"#\" id=\"templateTabButton\" onclick=\"return false"
+"\">select a template</a> first."
+msgstr ""
+"debe <a href=\"#\" id=\"templateTabButton\" onclick=\"return false"
+"\">seleccionar una plantilla</a> primero."
+
+#: views/template.php:175
+msgid "Search Data"
+msgstr "Buscar datos"
+
+#: views/template.php:181
+msgid "Time period"
+msgstr "Periodo"
+
+#: views/template.php:184
+msgid "Today"
+msgstr "Hoy"
+
+#: views/template.php:185
+msgid "Last week"
+msgstr "Última semana"
+
+#: views/template.php:186
+msgid "Last month"
+msgstr "Último mes"
+
+#: views/template.php:187
+msgid "Last 3 months"
+msgstr "Últimos 3 meses"
+
+#: views/template.php:188
+msgid "Last year"
+msgstr "Último año"
+
+#: views/template.php:189
+msgid "Date range"
+msgstr "Rango fechas"
+
+#: views/template.php:196
+msgid "Day"
+msgstr "Día"
+
+#: views/template.php:197
+msgid "Month"
+msgstr "Mes"
+
+#: views/template.php:198
+msgid "Year"
+msgstr "Año"
+
+#: views/template.php:201
+msgid "After"
+msgstr "Después"
+
+#: views/template.php:239 views/template.php:299
+msgid "Jan."
+msgstr "Ene."
+
+#: views/template.php:240 views/template.php:300
+msgid "Feb."
+msgstr "Feb."
+
+#: views/template.php:241 views/template.php:301
+msgid "Mar."
+msgstr "Mar."
+
+#: views/template.php:242 views/template.php:302
+msgid "Apr."
+msgstr "Abr."
+
+#: views/template.php:243 views/template.php:303
+msgid "May"
+msgstr "May."
+
+#: views/template.php:244 views/template.php:304
+msgid "Jun."
+msgstr "Jun."
+
+#: views/template.php:245 views/template.php:305
+msgid "Jul."
+msgstr "Jul."
+
+#: views/template.php:246 views/template.php:306
+msgid "Aug."
+msgstr "Ago."
+
+#: views/template.php:247 views/template.php:307
+msgid "Sep."
+msgstr "Sep."
+
+#: views/template.php:248 views/template.php:308
+msgid "Oct."
+msgstr "Oct."
+
+#: views/template.php:249 views/template.php:309
+msgid "Nov."
+msgstr "Nov."
+
+#: views/template.php:250 views/template.php:310
+msgid "Dic."
+msgstr "Dic."
+
+#: views/template.php:261
+msgid "Before"
+msgstr "Antes"
+
+#: views/template.php:322
+msgid "Filter data"
+msgstr "Filtrar datos"
